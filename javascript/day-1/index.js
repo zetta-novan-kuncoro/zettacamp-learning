@@ -14,6 +14,6 @@ function printBookStock(name, quantity) {
   console.log(sentence)
 }
 
-printBookStock("The Psychology of Money", 1)
-printBookStock("Harry Potter", 5)
+printBookStock("The Psychology of Money", 1) // There is a single of The Psychology of Money book left in the stock
+printBookStock("Harry Potter", 5) // There are 5 Harry Potter books left in the stock
 
